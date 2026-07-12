@@ -72,9 +72,9 @@ I work on fixed-price projects scoped before we start — no surprises on either
 
 | Project type | Starting from |
 |---|---|
-| Landing page + contact / WhatsApp | $150 |
-| Product catalog with cart | $250 |
-| Full store with payment integration | $400 |
+| Landing page + contact / WhatsApp | $100 |
+| Product catalog with cart | $150 |
+| Full store with payment integration | $300 |
 | Payment integration on existing site | $200 |
 | Automation (Sheets, bots, APIs) | $150 |
 | Custom / complex scope | Send me a message |
@@ -141,9 +141,9 @@ Trabajo en proyectos de precio fijo con alcance definido antes de empezar — si
 
 | Tipo de proyecto | Desde |
 |---|---|
-| Landing page + contacto / WhatsApp | $150 |
-| Catálogo de productos con carrito | $250 |
-| Tienda completa con integración de pagos | $400 |
+| Landing page + contacto / WhatsApp | $100 |
+| Catálogo de productos con carrito | $150 |
+| Tienda completa con integración de pagos | $300 |
 | Integración de pagos en sitio existente | $200 |
 | Automatización (Sheets, bots, APIs) | $150 |
 | Alcance personalizado / complejo | Escribime |
