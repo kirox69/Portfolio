@@ -19,12 +19,12 @@ const services = [
 ];
 
 const pricing = [
-  { type: "Landing + contacto / WhatsApp", price: "$150" },
-  { type: "Catálogo con carrito", price: "$250" },
-  { type: "Tienda completa + pagos", price: "$400" },
-  { type: "Integración de pagos en sitio existente", price: "$200" },
+  { type: "Landing + contacto / WhatsApp", price: "$50" },
+  { type: "Catálogo con carrito", price: "$80" },
+  { type: "Tienda completa + pagos", price: "$200" },
+  { type: "Integración de pagos en sitio existente", price: "$100" },
   { type: "Automatización (Sheets, bots, APIs)", price: "$150" },
-  { type: "Alcance personalizado", price: "Escribime" },
+  { type: "Alcance personalizado", price: "Escribeme" },
 ];
 
 const bazzarFeatures = [
