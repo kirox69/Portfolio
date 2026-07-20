@@ -245,7 +245,7 @@ function Index() {
             </h2>
 
             <a
-              href="mailto:tu@email.com"
+              href="mailto:kirox850@gmail.com"
               className="group mb-8 flex items-center justify-between border-b border-background/20 pb-4"
             >
               <span className="font-mono text-sm uppercase tracking-widest">
@@ -257,7 +257,7 @@ function Index() {
             </a>
 
             <div className="grid grid-cols-2 gap-4 font-mono text-[9px] uppercase tracking-[0.2em] text-background/30">
-              <a href="https://github.com/tu-usuario" className="hover:text-accent">
+              <a href="https://github.com/kirox69" className="hover:text-accent">
                 GitHub
               </a>
               <a href="https://t.me/tu-usuario" className="hover:text-accent">
