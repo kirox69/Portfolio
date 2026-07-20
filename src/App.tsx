@@ -156,7 +156,7 @@ export default function App() {
           <div className="cta-inner">
             <p className="cta-status">Estado: Disponible</p>
             <h2 className="cta-title">¿ARRANCAMOS<br />TU PROYECTO?</h2>
-            <a href="mailto:tu@email.com" className="cta-link">
+            <a href="mailto:kirox850@gmail.com" className="cta-link">
               <span>Escribime por email</span>
               <span className="cta-arrow">→</span>
             </a>
